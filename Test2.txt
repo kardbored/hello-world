@@ -1,1 +1,2 @@
 This is a test file for pushing to Github
+I made changes from the purpose of testing the desktop app
